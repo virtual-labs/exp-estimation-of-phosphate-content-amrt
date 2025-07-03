@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="hi-IN">
+
+  <file datatype="plaintext" original="Estmation_of_phosphate_content_in_soft_drinks.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BLANK">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTROLS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INSTRUCTION">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INSTRUCTION1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INSTRUCTION2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_INSTRUCTION3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INSTRUCTION4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INSTRUCTION5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_INSTRUCTION6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_INSTRUCTION7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_INSTRUCTION8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_INSTRUCTION9">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_RESET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_SAM1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SAM2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_SHOW">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TUBE1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TUBE2">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TUBE3">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TUBE4">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TUBE5">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TUBE6">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TUBE7">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TUBE8">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TUBE9">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_VARIABLES">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_WL">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
