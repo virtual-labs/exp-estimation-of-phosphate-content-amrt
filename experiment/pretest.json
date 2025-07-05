@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is a tribasic acid?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Acetic acid",
+        "b": "Phosphoric acid",
+        "c": "Sulphuric acid",
+        "d": "Benzoic acid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Acetic acid is monobasic, as it has only one replaceable hydrogen.",
+        "b": "Phosphoric acid is tribasic because it has three replaceable hydrogen atoms.",
+        "c": "Sulphuric acid is dibasic.",
+        "d": "Benzoic acid is monobasic."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A colorimeter measures",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light that passes through the substance",
+        "b": "Light given off by the substance",
+        "c": "Change in wave length of light by the substance",
+        "d": "Light that is fluoresced by the substance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct – A colorimeter measures the amount of light transmitted through a solution.",
+        "b": "Incorrect – This describes emission spectroscopy.",
+        "c": "Incorrect – Wavelength change is not what colorimeters detect.",
+        "d": "Incorrect – This describes fluorescence spectrometry."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
