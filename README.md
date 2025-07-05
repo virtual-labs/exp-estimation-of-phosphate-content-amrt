@@ -3,12 +3,12 @@
 
 <b>Discipline | <b> Chemical Sciences
 :--|:--|
-<b> Lab | <b> Advanced Analytical Chemistry Virtual Lab
+<b> Lab | <b>	Estimation of Phosphate Content in Soft Drinks
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To estimate the phosphate content in soft drinks
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
