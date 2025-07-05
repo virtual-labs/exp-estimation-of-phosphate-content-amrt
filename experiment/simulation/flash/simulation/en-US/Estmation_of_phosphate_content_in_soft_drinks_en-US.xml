@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="Estmation_of_phosphate_content_in_soft_drinks.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BLANK">
+        <source>blank</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CONTROLS">
+        <source>Controls</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_INSTRUCTION">
+        <source>1. Drag the blank cuvette, place it in the calorimeter and click absorbance button to set reading to zero.
+2. Drag the first cuvette, place it in the calorimeter and click the absorbance button to display absorbance.
+3. Click on the graph to plot the absorbance point.
+4. Repeat steps 2 and 3 for the cuvettes labelled till 1.8.
+5. Drag Sample 1, place it in the calorimeter and click the absorbance button to display the absorbance.
+6. Drag the pointer to plot the intersection point on the graph.
+7. Repeat 5 and 6 for Sample 2.</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_INSTRUCTION1">
+        <source>1. Drag the blank cuvette and place in the calorimeter.                              2. Click on the absorbance button and set reading to zero.                              3. Drag the first cuvette and place in the calorimeter.                              4. Click on the absorbance button to display the absorbance.                                             5. Click on the graph to plot the absorbance point.                              6. Repeat the steps 3-5 for the cuvettes marked from 1 to 9.                              7. Drag the first sample and place in the calorimeter.                              8. Click on the absorbance button to display the absorbance.                                             9. Drag the pointer to mark the absorbance point on the graph.
+
+</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_INSTRUCTION2">
+        <source>2. Click on the absorbance button and set reading to zero.</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_INSTRUCTION3">
+        <source>3. Drag the first cuvette and place in the calorimeter.</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_INSTRUCTION4">
+        <source>4. Click on the absorbance button to display the absorbance.</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_INSTRUCTION5">
+        <source>5. Click on the graph to plot the absorbance point.</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_INSTRUCTION6">
+        <source>6. Repeat the steps 3-5 for the cuvettes marked from 1 to 9.</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_INSTRUCTION7">
+        <source>7. Drag the first sample and place in the calorimeter.</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_INSTRUCTION8">
+        <source>8. Click on the absorbance button to display the absorbance.</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_INSTRUCTION9">
+        <source>9. Drag the pointer to mark the absorbance point on the graph.</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_SAM1">
+        <source>sample 1</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SAM2">
+        <source>sample 2</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_SHOW">
+        <source>Show Intersection</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_TITLE">
+        <source>Estimation of Phosphate Content in Soft Drinks</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_TUBE1">
+        <source>Solution 1</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TUBE2">
+        <source>Solution 2</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TUBE3">
+        <source>Solution 3</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_TUBE4">
+        <source>Solution 4</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_TUBE5">
+        <source>Solution 5</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_TUBE6">
+        <source>Solution 6</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_TUBE7">
+        <source>Solution 7</source>
+      </trans-unit>
+      <trans-unit id="025" resname="IDS_TUBE8">
+        <source>Solution 8</source>
+      </trans-unit>
+      <trans-unit id="026" resname="IDS_TUBE9">
+        <source>Solution 9</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_VARIABLES">
+        <source>Instructions</source>
+      </trans-unit>
+      <trans-unit id="028" resname="IDS_WL">
+        <source>635 nm</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
