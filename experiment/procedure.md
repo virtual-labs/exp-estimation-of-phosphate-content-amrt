@@ -1,5 +1,82 @@
 ### Procedure
 
+
+<h2>Preparation of Solutions:</h2>
+
+<h3>Molybdate Solution:</h3>
+<p>
+Add 13.6 mL of concentrated sulphuric acid to 35 mL of water and allow the solution to cool. In a separate vessel, add 2.5 g of ammonium molybdate to 50 mL of water. Add the sulphuric acid solution to it and make up the volume.
+</p>
+
+<h3>Reducing Solution:</h3>
+<p>
+Dissolve 11.25 g sodium hydrogen phosphate in 30 mL water. Add 2.25 g sodium sulphate and 0.19 g 1-amino 2-naphthol 4-sulphonic acid and dilute the mixture to 75 mL with water. Stir the mixture thoroughly and filter.
+</p>
+
+<h3>Standard Solutions of Phosphate:</h3>
+<p>
+Dissolve 20 mg of potassium dihydrogen phosphate in 100 mL of water. The concentration of phosphate standard solution is 0.2 mg/mL.
+</p>
+
+<p>
+Prepare 9 standard solutions containing:
+</p>
+<ul>
+  <li>0.5 mL molybdate solution</li>
+  <li>0.2 mL reducing solution</li>
+  <li>x mL of phosphate stock solution</li>
+  <li>y mL of distilled water</li>
+</ul>
+<p>
+Where x + y = 9.3 mL and x = 2 - 0.2n, with n = 1, 2, ..., 9.
+</p>
+
+<p>
+Also prepare a blank solution by mixing:
+</p>
+<ul>
+  <li>0.5 mL of molybdate solution</li>
+  <li>0.2 mL of reducing solution</li>
+  <li>9.3 mL of water</li>
+</ul>
+
+<p>
+Set the wavelength to 635 nm and adjust the colorimeter reading to zero with the blank.<br>
+Place each standard solution of phosphate in turn in the cuvette and record the absorbance.
+</p>
+
+<p>
+Dilute the soft drink sample 5 times. Mix:
+</p>
+<ul>
+  <li>1 mL of the diluted solution</li>
+  <li>0.5 mL molybdate solution</li>
+  <li>0.2 mL reducing solution</li>
+  <li>8.3 mL water</li>
+</ul>
+<p>
+to prepare the test solution.
+</p>
+
+<p>
+Measure the absorbance of the sample solution.<br>
+Plot a graph between absorbance and volume of phosphate in the standard solutions to obtain the calibration curve.<br>
+From the curve, determine the amount of phosphate in the test solution.
+</p>
+
+<h3>Calculation:</h3>
+<p>
+The amount of phosphate in the sample of soft drink is:<br>
+<strong>5 × 0.2 × V = 1 × V mg/mL</strong><br><br>
+Where:
+</p>
+<ul>
+  <li>5 is the dilution factor</li>
+  <li>0.2 mg/mL is the amount of phosphate in the standard solution</li>
+  <li>V is the volume of phosphate solution obtained from the graph</li>
+</ul>
+
+
 <br><br><br><br><br>
 
 # Procedure to View the Experiment Animation.
