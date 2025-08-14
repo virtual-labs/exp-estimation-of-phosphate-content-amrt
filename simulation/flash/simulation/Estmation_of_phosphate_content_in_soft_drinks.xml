@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>Point the mouse to each requirement of the experiment to know the name/ Click the “Continue” button to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="2button">
+	<TEXT ID="2button_one">
+	 <TEXTVALUE>Preparation of solutions for the experiment. 
+	 Preparing Molybdate Solution</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3button2">
+	<TEXT ID="3button2_one">
+	 <TEXTVALUE>Take 13.6 ml con.sulphuric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4containingsulphuric">
+	<TEXT ID="4containingsulphuric_one">
+	 <TEXTVALUE>Take 13.6 ml con.sulphuric acid.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="5acidpour">
+	<TEXT ID="5acidpour_one">
+	 <TEXTVALUE>Take 13.6 ml con.sulphuric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="6backacid">
+	<TEXT ID="6backacid_one">
+	 <TEXTVALUE>13.6 ml con.sulphuric acid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="7measuringcylinder">
+	<TEXT ID="7measuringcylinder_one">
+	 <TEXTVALUE>Pour the acid into 35 ml distilled water with constant stirring.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="8measuringzoom">
+	<TEXT ID="8measuringzoom_one">
+	 <TEXTVALUE>Pour the acid into 35 ml distilled water with constant stirring.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="9measuringcylindeback">
+	<TEXT ID="9measuringcylindeback_one">
+	 <TEXTVALUE>Pour the acid into 35 ml distilled water with constant stirring.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10cork">
+	<TEXT ID="10cork_one">
+	 <TEXTVALUE>Pour the acid into 35 ml distilled water with constant stirring.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11sptula">
+	<TEXT ID="11sptula_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12amonium">
+	<TEXT ID="12amonium_one">
+	 <TEXTVALUE>Weigh 2.5 g ammonium   molybdate  using an electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13weing">
+<TEXT ID="13weing_one">
+<TEXTVALUE>Weigh 2.5 g ammonium   molybdate  using an electronic balance.</TEXTVALUE>
+</TEXT>
+</SCENE>
+	
+<SCENE ID="14weing2">
+<TEXT ID="14weing2_one">
+<TEXTVALUE>Transfer it into a flask containing 50 ml distilled water.</TEXTVALUE>
+</TEXT>
+</SCENE>
+
+<SCENE ID="15add50mi">
+	<TEXT ID="15add50mi_one">
+	 <TEXTVALUE>Transfer it into a flask containing 50 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16rode">
+	<TEXT ID="16rode_one">
+	 <TEXTVALUE>Mix thoroughly and label it as molydate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18rot">
+	<TEXT ID="18rot_one">
+	 <TEXTVALUE>Mix thoroughly and label it as molydate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19add">
+	<TEXT ID="19add_one">
+	 <TEXTVALUE>Mix thoroughly and label it as molydate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20con">
+	<TEXT ID="20con_one">
+	 <TEXTVALUE>Mix thoroughly and label it as molydate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21rod21">
+	<TEXT ID="21rod21_one">
+	 <TEXTVALUE>Take a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="22rot2">
+	<TEXT ID="22rot2_one">
+	 <TEXTVALUE>Mix thoroughly and label it as molydate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23name">
+	<TEXT ID="23name_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24zoom">
+	<TEXT ID="24zoom_one">
+	 <TEXTVALUE>Label it as molybdate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="25back2">
+	<TEXT ID="25back2_one">
+	 <TEXTVALUE>Cover the mouth of the conical flask with an aluminium foil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="26zoom3">
+	<TEXT ID="26zoom3_one">
+	 <TEXTVALUE>Cover the mouth of the conical flask with an aluminium foil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27button2">
+	<TEXT ID="27button2_one">
+	 <TEXTVALUE>Preparing Reducing Solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28addpow">
+	<TEXT ID="28addpow_one">
+	 <TEXTVALUE>Weigh 11.25 g sodium hydrogen phosphate into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29rod4">
+	<TEXT ID="29rod4_one">
+	 <TEXTVALUE>Take a glass rod from the beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30rod3">
+	<TEXT ID="30rod3_one">
+	 <TEXTVALUE>Stir the solution in the conical flask with the glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="31disolv">
+<TEXT ID="31disolv_one">
+	 <TEXTVALUE>Dissolve it in 30 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32sodium">
+	<TEXT ID="32sodium_one">
+	 <TEXTVALUE>Using an electronic balance weigh 2.25 g sodium  sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33sodiumzoom">
+	<TEXT ID="33sodiumzoom_one">
+	 <TEXTVALUE>Using an electronic balance weigh 2.25 g sodium  sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34weingbak">
+	<TEXT ID="34weingbak_one">
+	 <TEXTVALUE>Take the butter paper with sodium  sulphate from weighing balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35in30ml">
+	<TEXT ID="35in30ml_one">
+	 <TEXTVALUE>Add it into the same conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36water">
+	<TEXT ID="36water_one">
+	 <TEXTVALUE>Also add weighed 0.19 gm 1 amino 2 naphthol 4 sulphuric acid and dilute the mixture to 75 ml with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37waterzoom">
+	<TEXT ID="37waterzoom_one">
+	 <TEXTVALUE>Also add weighed 0.19 gm 1 amino 2 naphthol 4 sulphuric acid and dilute the mixture to 75 ml with water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38rod5">
+	<TEXT ID="38rod5_one">
+	 <TEXTVALUE>Stir the mixture thoroughly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39rot6">
+<TEXT ID="39rot6_one">
+	 <TEXTVALUE>Stir the mixture thoroughly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40disolv2">
+	<TEXT ID="40disolv2_one">
+	 <TEXTVALUE>Stir the mixture thoroughly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41take">
+	<TEXT ID="41take_one">
+	 <TEXTVALUE>Stir the mixture thoroughly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="42filter">
+<TEXT ID="42filter_one">
+	 <TEXTVALUE>Filter it into a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43filtezoom">
+	<TEXT ID="43filtezoom_one">
+	 <TEXTVALUE>Filter it into a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="44filter1">
+	<TEXT ID="44filter1_one">
+	 <TEXTVALUE>Filter it into a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45brown">
+<TEXT ID="45brown_one">
+	 <TEXTVALUE>Take a glass stopped dark bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46con2">
+	<TEXT ID="46con2_one">
+	 <TEXTVALUE>Transfer the reducing solution to the dark bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47zoom8">
+	<TEXT ID="47zoom8_one">
+	 <TEXTVALUE>Transfer the reducing solution to the dark bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="48brownclos">
+	<TEXT ID="48brownclos_one">
+	 <TEXTVALUE>Transfer the reducing solution to the dark bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49name2">
+	<TEXT ID="49name2_one">
+	 <TEXTVALUE>Label it as reducing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="50zoomname2">
+	<TEXT ID="50zoomname2_one">
+	 <TEXTVALUE>Label it as reducing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51otbak">
+	<TEXT ID="51otbak_one">
+	 <TEXTVALUE>Label it as reducing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52button3">
+	<TEXT ID="52button3_one">
+	 <TEXTVALUE>Preparing Standard Solution Of Phosphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53powder">
+	<TEXT ID="53powder_one">
+	 <TEXTVALUE>Add 20 mg potassium dihyrogen phosphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+	
+<SCENE ID="54rod3">
+	<TEXT ID="54rod3_one">
+	 <TEXTVALUE>Dissolve it in 75ml distilled water.</TEXTVALUE>
+	</TEXT>
+	</SCENE>
+	
+<SCENE ID="55rot4">
+	<TEXT ID="55rot4_one">
+	 <TEXTVALUE>Dissolve it in 75ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="56rodbak">
+	<TEXT ID="56rodbak_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="57label">
+	<TEXT ID="57label_one">
+	 <TEXTVALUE>Label the solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58resultzoom">
+	<TEXT ID="58resultzoom_one">
+	 <TEXTVALUE>Now the solutions are ready for use.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59zoom1">
+	<TEXT ID="59zoom1_one">
+	 <TEXTVALUE>Now the solutions are ready for use.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60pipet">
+	<TEXT ID="60pipet_one">
+	 <TEXTVALUE>Now the solutions are ready for use.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="61tube">
+	<TEXT ID="61tube_one">
+	 <TEXTVALUE>Take 10 test tubes of 10 ml each.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="62tubelabel">
+	<TEXT ID="62tubelabel_one">
+	 <TEXTVALUE>Take the first test tube and label it as blank.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="63tubeback">
+	<TEXT ID="63tubeback_one">
+	 <TEXTVALUE>Take the first test tube and label it as blank.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="64tube2">
+	<TEXT ID="64tube2_one">
+	 <TEXTVALUE>Label the second test tube as 0.2 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="65label2">
+	<TEXT ID="65label2_one">
+	 <TEXTVALUE>Label the second test tube as 0.2 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="66back02">
+	<TEXT ID="66back02_one">
+	 <TEXTVALUE>Label the second test tube as 0.2 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="67labl18">
+	<TEXT ID="67labl18_one">
+	 <TEXTVALUE>Similarly label the successive test tubes as 0.4 ml, 0.6 ml…………………to 1.8 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="68back18">
+	<TEXT ID="68back18_one">
+	 <TEXTVALUE>Similarly label the successive test tubes as 0.4 ml, 0.6 ml…………………to 1.8 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="69pipt">
+	<TEXT ID="69pipt_one">
+	 <TEXTVALUE>Take a micro pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="70arrangepip">
+	<TEXT ID="70arrangepip_one">
+	 <TEXTVALUE>Adjust the micro pipette to 500 microliter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="71tipin">
+	<TEXT ID="71tipin_one">
+	 <TEXTVALUE>Insert a fresh tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="72pipsol">
+	<TEXT ID="72pipsol_one">
+	 <TEXTVALUE>Pour 500 microliter molybdate solution to the test tube labeled as blank.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="73tubezoom">
+	<TEXT ID="73tubezoom_one">
+	 <TEXTVALUE>Pour 500 microliter molybdate solution to the test tube labeled as blank.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="74pipsol2">
+	<TEXT ID="74pipsol2_one">
+	 <TEXTVALUE>Pour the same volume of molybdate solution to the successive test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="75chart">
+	<TEXT ID="75chart_one">
+	 <TEXTVALUE>Pour the same volume of molybdate solution to the successive test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="76dicard">
+	<TEXT ID="76dicard_one">
+	 <TEXTVALUE>Discard the tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="78arrange200">
+	<TEXT ID="78arrange200_one">
+	 <TEXTVALUE>Adjust the micropipette to 200 microliter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="77tipin">
+	<TEXT ID="77tipin_one">
+	 <TEXTVALUE>Insert a fresh pipette tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="79redsol">
+	<TEXT ID="79redsol_one">
+	 <TEXTVALUE>Pour 200 microlitre reducing solution to all test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="80two2">
+	<TEXT ID="80two2_one">
+	 <TEXTVALUE>Pour 200 microlitre reducing solution to all test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="81red21">
+	<TEXT ID="81red21_one">
+	 <TEXTVALUE>Pour 200 microlitre reducing solution to all test tubes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="82chart3">
+	<TEXT ID="82chart3_one">
+	 <TEXTVALUE>Similarly add phosphate stock solution to the test tube labeled as 0.2 ml to 1.8 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="83recap">
+	<TEXT ID="83recap_one">
+	 <TEXTVALUE>Recap the reducing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="84rest">
+	<TEXT ID="84rest_one">
+	 <TEXTVALUE>Keep all tubes for 30 minutes to develop the color, Blue color is developed in all test tubes except blank.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="85cola">
+	<TEXT ID="85cola_one">
+	 <TEXTVALUE>Take the soft drink bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="86pipet">
+	<TEXT ID="86pipet_one">
+	 <TEXTVALUE>Take a 20 ml glass pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="87piptip">
+	<TEXT ID="87piptip_one">
+	 <TEXTVALUE>Connect to the pipette pump.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="88colapoen">
+	<TEXT ID="88colapoen_one">
+	 <TEXTVALUE>Take the 20 ml soft drink using pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="89zoom1">
+	<TEXT ID="89zoom1_one">
+	 <TEXTVALUE>Take the 20 ml soft drink using pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="90backpip">
+	<TEXT ID="90backpip_one">
+	 <TEXTVALUE>Take the 20 ml soft drink using pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="91colain">
+	<TEXT ID="91colain_one">
+	 <TEXTVALUE>Pipette out 20 ml soft drink into a 100 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="92wash1">
+	<TEXT ID="92wash1_one">
+	 <TEXTVALUE>Make up the solution to 100 ml by adding distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="93wash2">
+	<TEXT ID="93wash2_one">
+	 <TEXTVALUE>Make up the solution to 100 ml by adding distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="94cork">
+	<TEXT ID="94cork_one">
+	 <TEXTVALUE>Close the standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="95take">
+	<TEXT ID="_one">
+	 <TEXTVALUE>Shake the solution well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="96shake">
+	<TEXT ID="96shake_one">
+	 <TEXTVALUE>Shake the solution well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="97shake2">
+	<TEXT ID="97shake2_one">
+	 <TEXTVALUE>Then labeled as Sample 1.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="98sample2">
+	<TEXT ID="98sample2_one">
+	 <TEXTVALUE>Prepare the soft drink 2 of the second sample and label it as sample 2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="99piptip2">
+	<TEXT ID="99piptip2_one">
+	 <TEXTVALUE>Take a 10 ml glass pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="100insol">
+	<TEXT ID="100insol_one">
+	 <TEXTVALUE>Pipette out 1 ml sample 1 into a 100 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="101insolzoom">
+	<TEXT ID="101insolzoom_one">
+	 <TEXTVALUE>Pipette out 1 ml sample 1 into a 100 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="102back2">
+	<TEXT ID="102back2_one">
+	 <TEXTVALUE>Pipette out 1 ml sample 1 into a 100 ml standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="103nuwtube">
+	<TEXT ID="103nuwtube_one">
+	 <TEXTVALUE>Take the 10 ml of screw capped test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="104tube3">
+	<TEXT ID="104tube3_one">
+	 <TEXTVALUE>Pour 1 ml of the drink solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="105pip">
+	<TEXT ID="105pip_one">
+	 <TEXTVALUE>Pour 1 ml of the drink solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="109pipzoom">
+	<TEXT ID="109pipzoom_one">
+	 <TEXTVALUE>Pour 1 ml of the drink solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="110tubak">
+	<TEXT ID="110tubak_one">
+	 <TEXTVALUE>Pour 1 ml of the drink solution into a test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="111pipt">
+	<TEXT ID="111pipt_one">
+	 <TEXTVALUE>Take a 500 microlitre micro pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="112zoompip">
+	<TEXT ID="112zoompip_one">
+	 <TEXTVALUE>Take a 500 microlitre micro pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="113tipin2">
+	<TEXT ID="113tipin2_one">
+	 <TEXTVALUE>Insert a fresh tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="114pipso3">
+	<TEXT ID="114pipso3_one">
+	 <TEXTVALUE>Take 0.5 ml molybdate solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="115tubeup">
+	<TEXT ID="115tubeup_one">
+	 <TEXTVALUE>Add 0.5 ml molybdate solution in that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="116poen2">
+	<TEXT ID="116poen2_one">
+	 <TEXTVALUE>Add 0.5 ml molybdate solution in that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="117Zzoom6">
+	<TEXT ID="117Zzoom6_one">
+	 <TEXTVALUE>Add 0.5 ml molybdate solution in that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="118tubak3">
+	<TEXT ID="118tubak3_one">
+	 <TEXTVALUE>Add 0.5 ml molybdate solution in that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="119dicard2">
+	<TEXT ID="119dicard2_one">
+	 <TEXTVALUE>Discard the tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="120arrange2002">
+	<TEXT ID="120arrange2002_one">
+	 <TEXTVALUE>Adjust the volume 200 microlitre.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="121tipin">
+	<TEXT ID="121tipin_one">
+	 <TEXTVALUE>Insert a fresh tip.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="122redso2">
+	<TEXT ID="122redso2_one">
+	 <TEXTVALUE>Take 0.2 ml of of reducing solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="123tubeup3">
+	<TEXT ID="123tubeup3_one">
+	 <TEXTVALUE>Add 0.2 ml of of reducing solution to that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="124poen4">
+	<TEXT ID="124poen4_one">
+	 <TEXTVALUE>Add 0.2 ml of of reducing solution to that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="125Zzoom7">
+	<TEXT ID="125Zzoom7_one">
+	 <TEXTVALUE>Add 0.2 ml of of reducing solution to that same test tube.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="126tubak4">
+	<TEXT ID="126tubak4_one">
+	 <TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="127piptip3">
+	<TEXT ID="127piptip3_one">
+	 <TEXTVALUE>Take the 10 ml glass pipette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="128water">
+	<TEXT ID="128water_one">
+	 <TEXTVALUE>Take the water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="129tubeup5">
+	<TEXT ID="129tubeup5_one">
+	 <TEXTVALUE>Dilute the solution to 10 ml by adding water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="130poen7">
+	<TEXT ID="130poen7_one">
+	 <TEXTVALUE>Dilute the solution to 10 ml by adding water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="131zoom">
+	<TEXT ID="131zoom_one">
+	 <TEXTVALUE>Dilute the solution to 10 ml by adding water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="132back4">
+	<TEXT ID="132back4_one">
+	 <TEXTVALUE>Label the tube as sample 1.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="133fade">
+	<TEXT ID="133fade_one">
+	 <TEXTVALUE>Prepare the test solution of the second sample and label it as sample 2.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="134zoom">
+	<TEXT ID="134zoom_one">
+	 <TEXTVALUE>Keep the test tubes at room temperature for 30 minutes.  After 30 minutes, light blue colour is developed in both samples.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="135zoom3">
+	<TEXT ID="135zoom3_one">
+	 <TEXTVALUE>After the 30 minutes light blue colour is developed in both samples.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+</DATA>
