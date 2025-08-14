@@ -34,6 +34,57 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+    {
+      "question": "In the equation, A = εlc, what quantity is represented by ε?",
+      "answers": {
+        "a": "Absorbitivity",
+        "b": "Path length",
+        "c": "Molar absorbitivity",
+        "d": "Wave length"
+      },
+      "explanations": {
+        "a": "Incorrect – Absorbitivity is not a standard term here.",
+        "b": "Incorrect – Path length is represented by 'l'.",
+        "c": "Correct – ε is the molar absorptivity (or molar extinction coefficient).",
+        "d": "Incorrect – Wavelength is not represented by ε."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Theoretically, a reducing agent can be described as a substance that",
+      "answers": {
+        "a": "Loses electrons and becomes reduced.",
+        "b": "Loses electrons and causes reduction.",
+        "c": "Gains electrons and causes oxidation.",
+        "d": "Gains electrons and becomes reduced."
+      },
+      "explanations": {
+        "a": "Incorrect – Losing electrons means oxidation, not reduction.",
+        "b": "Correct – A reducing agent loses electrons and reduces another substance.",
+        "c": "Incorrect – This describes an oxidizing agent.",
+        "d": "Incorrect – This describes a reduced substance, not a reducing agent."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The visible portion of the electromagnetic spectrum occurs between ……nm and ……nm",
+      "answers": {
+        "a": "800, 1200",
+        "b": "10, 300",
+        "c": "400, 740",
+        "d": "1, 10"
+      },
+      "explanations": {
+        "a": "Incorrect – This range is in the infrared region.",
+        "b": "Incorrect – This is ultraviolet to X-ray region.",
+        "c": "Correct – The visible light spectrum spans approximately from 400 to 740 nm.",
+        "d": "Incorrect – This range is in the extreme UV to X-ray range."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
